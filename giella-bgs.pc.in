@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+datadir=@datarootdir@
+gtlang=bgs
+dir=${datadir}/giella/${gtlang}
+srcdir=${datadir}/giella/${gtlang}
+
+Name: giella-bgs
+Description: Finite-state language processing tools for Tagabawa
+URL: https://giellalt.uit.no/index.html
+Version: @VERSION@

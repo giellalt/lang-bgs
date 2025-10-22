@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-bgs%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-bgs)](https://github.com/giellalt/lang-bgs/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-bgs)](https://github.com/giellalt/lang-bgs/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-bgs/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-bgs/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-bgs?label=CI)](https://builds.giellalt.org/pipelines/lang-bgs/builds/latest)
 
 This page documents the work on the **Tagabawa language model**. 
 
